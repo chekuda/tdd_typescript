@@ -1,0 +1,23 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "written test with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start --watch"
+  },
+  "author": "Jose Luis Checa",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^2.5.36",
+    "browserify": "^13.1.1",
+    "jasmine": "^2.5.2",
+    "karma": "^1.3.0",
+    "karma-browserify": "^5.1.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.0.2",
+    "tsify": "^2.0.2",
+    "typescript": "^2.0.6",
+    "watchify": "^3.7.0"
+  }
+}
