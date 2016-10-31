@@ -1,2 +1,2 @@
-#TDD Kata with TypeScript, Karma, Mocha, Chai
+#TDD Kata with TypeScript, Karma, Jasmine
 Writen test with typescript
